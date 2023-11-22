@@ -782,7 +782,7 @@ Prevent Destroy: it will not delete the resources
 Ignore changes: it will not replicate the changes we have done to server
 Depends on: it will depend on another resource to create.
 
-tERRAFORM REMOTE BACKEND SETUP:
+TERRAFORM REMOTE BACKEND SETUP:
 when we create infra the information of resources will store on state file.
 so it will be tracking the infra information.
 so we need to take backup of that file.
